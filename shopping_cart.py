@@ -1,5 +1,5 @@
 
-#Ch 8 Programming Assignment
+#Ch 9 Programming Assignment
 #Jared Adamson
 #Part A
 # Tracks items in an online store.
