@@ -22,7 +22,7 @@ while userContinue == 'Y':
 
     print(fContent[lineRead])
 
-    userContinue = input('Would you like to read a diffrent line(Y for Yes N for No:').upper()
+    userContinue = input('Would you line to read a diffrent line(Y for Yes N for No:').upper()
 
     
 
